@@ -1,0 +1,86 @@
+.header
+{
+  position: absolute;
+ width: 1440px;
+height: 166px;
+left: 0px;
+top: 10px;
+
+background: #0F0230;
+box-shadow: 0px 4px 120px rgba(0, 0, 0, 0.25);
+}
+.textstyle
+{
+  font-family: Sen;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 13px;
+  line-height: 16px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.buttonstyle1
+{
+position: absolute;
+width: 138px;
+height: 52px;
+left: 58px;
+top: 67px;
+
+background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);;
+box-shadow: 0px 0px 11px 2px #EB00FF;
+border-radius: 100px;
+}
+.buttonstyle2
+{
+position: absolute;
+width: 138px;
+height: 52px;
+left: 221px;
+top: 67px;
+
+background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);;
+box-shadow: 0px 0px 11px 2px #EB00FF;
+border-radius: 100px;
+}
+.logo{
+position: absolute;
+width: 214px;
+height: 95px;
+left: 680px;
+top: 46px;
+background: url("https://source.unsplash.com/user/erondu/1600x900");
+    
+}
+.hamburger1{
+  position: absolute;
+width: 38px;
+height: 0px;
+left: 1321px;
+top: 70px;
+
+border: 1px solid #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.hamburger2{
+  position: absolute;
+  width: 38px;
+  height: 0px;
+  left: 1321px;
+  top: 84px;
+  
+  border: 1px solid #FFFFFF;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.hamburger3{
+position: absolute;
+width: 38px;
+height: 0px;
+left: 1321px;
+top: 98px;
+
+border: 1px solid #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}

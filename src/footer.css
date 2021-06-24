@@ -1,0 +1,223 @@
+.footer
+{
+position: absolute;
+width: 1440px;
+height: 514px;
+left: 0px;
+top: 1363px;
+background: #0F0230;
+}
+.footerimage
+{
+position: absolute;
+width: 433px;
+height: 92px;
+left: 480px;
+top: 60px;
+
+background: url("https://source.unsplash.com/user/erondu/1600x900");
+    
+}
+.footertext1
+{
+    position: absolute;
+    width: 100px;
+    height: 31px;
+    left: 60px;
+    top: 270px;
+    font-family: Sen;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 31px;
+    
+    color: #FFFFFF;
+}
+.footertext2
+{
+position: absolute;
+width: 144px;
+height: 109px;
+left: 60px;
+top: 330px;
+
+font-family: Sen;
+font-style: normal;
+font-weight: normal;
+font-size: 26px;
+line-height: 31px;
+
+color: #FFFFFF;
+}
+.footertext3
+{
+    position: absolute;
+    width: 144px;
+    height: 109px;
+    left: 60px;
+    top: 365px;
+    
+    font-family: Sen;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 31px;
+    
+    color: #FFFFFF; 
+}
+.footertext4
+{
+    position: absolute;
+width: 144px;
+height: 109px;
+left: 60px;
+top: 395px;
+font-family: Sen;
+font-style: normal;
+font-weight: normal;
+font-size: 26px;
+line-height: 31px;
+
+color: #FFFFFF;
+}
+.footertext5
+{
+    position: absolute;
+    width: 100px;
+    height: 31px;
+    left: 300px;
+    top: 270px;
+    font-family: Sen;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 31px;
+    
+    color: #FFFFFF;
+}
+.footertext6
+{
+position: absolute;
+width: 144px;
+height: 109px;
+left: 300px;
+top: 330px;
+
+font-family: Sen;
+font-style: normal;
+font-weight: normal;
+font-size: 26px;
+line-height: 31px;
+
+color: #FFFFFF;
+}
+.footertext7
+{
+    position: absolute;
+    width: 144px;
+    height: 109px;
+    left: 300px;
+    top: 365px;
+    
+    font-family: Sen;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 31px;
+    
+    color: #FFFFFF; 
+}
+.footertext8
+{
+    position: absolute;
+width: 144px;
+height: 109px;
+left: 300px;
+top: 395px;
+font-family: Sen;
+font-style: normal;
+font-weight: normal;
+font-size: 26px;
+line-height: 31px;
+
+color: #FFFFFF;
+}
+.footertext9
+{
+    position: absolute;
+width: 144px;
+height: 109px;
+left: 1200px;
+top: 250px;
+font-family: Sen;
+font-style: normal;
+font-weight: normal;
+font-size: 26px;
+line-height: 31px;
+
+color: #FFFFFF;
+}
+.footericon1
+{
+position: absolute;
+width: 19px;
+height: 23px;
+left: 1000px;
+top: 300px;
+background: url("https://source.unsplash.com/user/erondu/1600x900");
+    
+}
+.footericon2
+{
+position: absolute;
+width: 19px;
+height: 23px;
+left: 1080px;
+top: 300px;
+background: url("https://source.unsplash.com/user/erondu/1600x900");
+    
+}
+.footericon3
+{
+position: absolute;
+width: 19px;
+height: 23px;
+left: 1160px;
+top: 300px;
+background: url("https://source.unsplash.com/user/erondu/1600x900");
+    
+}
+.footericon4
+{
+position: absolute;
+width: 19px;
+height: 23px;
+left: 1240px;
+top: 300px;
+background: url("https://source.unsplash.com/user/erondu/1600x900");
+    
+}
+.footericon5
+{
+position: absolute;
+width: 49px;
+height: 53px;
+left: 1320px;
+top: 300px;
+    
+}
+.footertext10
+{
+    position: absolute;
+    width: 596px;
+height: 109px;
+left: 952px;
+top: 380px;
+font-family: Sen;
+font-style: normal;
+font-weight: normal;
+font-size: 26px;
+line-height: 31px;
+
+color: #FFFFFF;
+}
